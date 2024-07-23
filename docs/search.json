@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Final1",
     "section": "",
-    "text": "This is a Quarto website.\nhello, commit\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\nlibrary(\"usethis\")\n\nWarning: package 'usethis' was built under R version 4.3.3"
+    "text": "This is a Quarto website.\nhello, commit, checking if updates change\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\nlibrary(\"usethis\")\n\nWarning: package 'usethis' was built under R version 4.3.3"
   },
   {
     "objectID": "about.html",
