@@ -1,4 +1,4 @@
-[Project Webpage](https://brendanmck5812.github.io/FluorometerAccuracyCorrection/) \# Using Fluorometer Measurements to Gather Verifiable Chlorophyll A Concentration Data
+[Project Webpage](https://brendanmck5812.github.io/FluorometerAccuracyCorrection/)
 
 # Using Fluorometer Measurements to Gather Verifiable Chlorophyll A Concentration Data
 
